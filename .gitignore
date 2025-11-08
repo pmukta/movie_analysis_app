@@ -1,7 +1,4 @@
-# Ignore all CSV files
 *.csv
-
-# Ignore other unnecessary files/folders
 __pycache__/
 *.pyc
 .env
