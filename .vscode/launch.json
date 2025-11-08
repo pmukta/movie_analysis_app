@@ -1,0 +1,22 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "name": "Debug Streamlit App",
+        "type": "python",
+        "request": "launch",
+        "module": "streamlit",
+       "args": [
+  "run",
+  "home.py",
+  "--server.port",
+  "8502"
+],
+
+        "console": "integratedTerminal",
+        "justMyCode": false,
+        "subProcess": true
+      }
+    ]
+  }
+  
